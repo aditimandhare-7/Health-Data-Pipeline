@@ -83,7 +83,7 @@ The pipeline processes the following healthcare entities:
 
 ## Project Structure
 
-
+```text
 Health-Data-Pipeline/
 │
 ├── health_datapipeline_dag.py
@@ -97,7 +97,7 @@ Health-Data-Pipeline/
 ├── insert_health_dml.sql
 └── README.md
 
-
+```
 ---
 
 ## Workflow
